@@ -1,0 +1,19 @@
+{
+  "name": "STARE | System Tracking & Activity Restrictions",
+  "description": "Records the system application Usage",
+  "repository": "https://github.com/sacmnnit/sacPortal",
+  "keywords": ["HINT3.0", "IIITA", "STARE"],
+  "success_url":"/",
+  "env":{
+    "DISABLE_COLLECTSTATIC":"1", 
+    "SECRET_KEY": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
+    },
+  },
+  "addons":[
+    {
+	    "plan":"heroku-postgresql"
+    }
+  ], 
+}
