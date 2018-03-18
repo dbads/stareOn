@@ -1,6 +1,6 @@
 [STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/)
 
-<img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/sd2.png?raw=true">
+<img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/s.png?raw=true">
 
 usage - 
 
@@ -12,6 +12,7 @@ Personal Usage -
 
 	3. Default Reminder, We can recommend users what to do at anytime on the basis of their previous activity pattern.
 
+	<img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/sd2.png?raw=true">
 	
 Parental control - 
 
@@ -19,7 +20,7 @@ Parental control -
 	
 	2. Can automatically close unwanted applications using constraint feature.
 
-
+	<img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/sd3.png?raw=true">
 
 Future aspects - 
 
@@ -35,7 +36,8 @@ Web Watch
 	
 	This we can use to watch the activities of remote user using their IP address.
 
-
+	<img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/sd1.png?raw=true">
+	
 Survey Usage
 
 	1. A survey on a group of people will tell about their nature and what kind of things they like or do etc. (This can help)
