@@ -29,11 +29,10 @@ $('.type_personal,.type_parental,.type_future,.type_untold').typeIt({
   // loopDelay:1500 
 });
 
-$('.quote').typeIt({    
-  speed: 100,
-  autoStart: false,
-  loop:true;
-});
+// $('.type_slider').typeIt({    
+//   speed: 100,
+//   autoStart: false,
+// });
 
 // $('.type_why_woc').typeIt({  
 //   speed: 100,
