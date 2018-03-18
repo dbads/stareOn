@@ -3,11 +3,12 @@ stareOn
 
 An intro web app for [STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/)
 
-<img src="Stare/static/img/sd3.png/">
+<img src="./Stare/static/img/sd2.png/">
 
-usage 
+usage - 
 
 Personal Usage - 
+
 	1. See what you did throughout the day or (daily,weekly and monthly application usage). Because you kind of forget what all activities you did, whether it was expected or some unnecessary usage. So Yeah.. Its kind of awesome that you can now track urself and bring some changes in behaviour.
 
 	2. And we have a constraint feature, which kind of enables users to schedule autoclose for any application(which you are addicted of..) after a fixed time limit. Isn't cool??
@@ -40,24 +41,12 @@ Web Watch
 
 Survey Usage
 
-1. A survey on a group of people will tell about their nature and what kind of things they like or do etc. (This can help)
-
-
-
-
-
-
-
-
-
-
-
-
+	1. A survey on a group of people will tell about their nature and what kind of things they like or do etc. (This can help)
 
 
 Deploy on Heroku - 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+	[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 
