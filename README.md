@@ -1,9 +1,6 @@
+[STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/)
 
-stareOn
-
-An intro web app for [STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/)
-
-<img src="./Stare/static/img/sd2.png/">
+<img src="./static/Stare/img/sd2.png/">
 
 usage - 
 
