@@ -1,1 +1,1 @@
-web: gunicorn SacMnnit.wsgi --preload --workers 1
+web: gunicorn stareOn.wsgi --preload --workers 1
