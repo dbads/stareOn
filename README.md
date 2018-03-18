@@ -1,6 +1,6 @@
 [STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/)
 
-<img src="https://github.com/dbads/stareOn/tree/master/Stare/static/Stare/img/sd2.png/">
+<img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/sd2.png?raw=true">
 
 usage - 
 
