@@ -49,7 +49,7 @@ F) *Survey Usage*
 	1. A survey on a group of people will tell about their nature and what kind of things they like or do etc. (This can be helpful for others)
 	2. Such surveys might help predicting a lot in understanding a particular group of people. 
 
-For more please our website [STARE](https://attackonpython.herokuapp.com/)
+For more please visit our website [STARE](https://attackonpython.herokuapp.com/)
 
 And as both our [App](https://github.com/dbads/stare) and [Website](https://github.com/dbads/stareOn) are open source, you can play around with them.
 
@@ -57,5 +57,5 @@ Happy Coding !!
 
 Deploy on Heroku - 
 
-	[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
