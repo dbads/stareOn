@@ -1,4 +1,4 @@
-[STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/)
+[STARE | System Tracking & Activity restrictions](https://github.com/dbads/stare/) Track What You Do, When You Do and Why ??
 
 <img src="https://github.com/dbads/stareOn/blob/master/Stare/static/Stare/img/s.png?raw=true">
 
