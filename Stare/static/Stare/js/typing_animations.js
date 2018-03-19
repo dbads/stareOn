@@ -31,7 +31,7 @@ $('.type_personal,.type_parental,.type_future,.type_untold').typeIt({
 
 $('.quote').typeIt({ 
   breakLines:false, 
-  speed: 200,
+  speed: 100,
   // deleteDelay: 750, 
   autoStart: false,
   loop:true,

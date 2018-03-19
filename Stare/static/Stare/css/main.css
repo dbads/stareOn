@@ -17,7 +17,8 @@
 }
 
 
-div.single-feature {
+
+div.single-feature{
   padding: 20px;
   display: block;
   width: 250px;
@@ -26,7 +27,7 @@ div.single-feature {
   text-align: center;
 }
 
-div.single-feature:hover {
+div.single-feature:hover{
   padding: 20px;
   display: block;
   width: 250px;
