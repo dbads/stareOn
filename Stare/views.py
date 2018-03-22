@@ -9,6 +9,9 @@ from django.http import HttpResponse
 def home(request):
 	return render(request, 'Stare/home.html',{})
 
+def demo(request):
+	return render(request, 'Stare/team.html',{})	
+
 def subscribe(request):
 	email = request.POST.get('email')
 	sub = 'Successfully Subscribed to STARE'
