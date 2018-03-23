@@ -61,3 +61,6 @@ Deploy on Heroku -
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+
+
+[![Join the chat at https://gitter.im/talk_stareOn/Lobby](https://badges.gitter.im/talk_stareOn/Lobby.svg)](https://gitter.im/talk_stareOn/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
